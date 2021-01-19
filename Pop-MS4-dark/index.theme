@@ -1,0 +1,9 @@
+[X-GNOME-Metatheme]
+Name=Pop-MS4-dark
+Type=X-GNOME-Metatheme
+Comment=The Pop-MS4-dark GTK Theme
+Encoding=UTF-8
+GtkTheme=Pop-MS4-dark
+IconTheme=Pop-MS4
+CursorTheme=Pop-MS4
+CursorSize=24

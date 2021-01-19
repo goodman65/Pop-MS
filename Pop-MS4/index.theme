@@ -1,0 +1,9 @@
+[X-GNOME-Metatheme]
+Name=Pop-MS4
+Type=X-GNOME-Metatheme
+Comment=The Pop-MS4 GTK Theme
+Encoding=UTF-8
+GtkTheme=Pop-MS4
+IconTheme=Pop-MS4
+CursorTheme=Pop-MS4
+CursorSize=24
