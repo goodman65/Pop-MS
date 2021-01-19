@@ -1,0 +1,9 @@
+[X-GNOME-Metatheme]
+Name=Pop-MS10
+Type=X-GNOME-Metatheme
+Comment=The Pop-MS10 GTK Theme
+Encoding=UTF-8
+GtkTheme=Pop-MS10
+IconTheme=Pop-MS10
+CursorTheme=Pop-MS10
+CursorSize=24
